@@ -2,7 +2,7 @@
 Marmara Üniversitesi bünyesinde Kodluyoruz ortaklığı ile Yazılıma Başlangıç sürecinde öğrendiğim temel bilgiler buraya kaydedeceğim
 [Patika.dev](https://www.patika.dev/tr)
 
-##Insertion Sort Projesi
+## Insertion Sort Projesi
 
 [22,27,16,2,18,6]
 
